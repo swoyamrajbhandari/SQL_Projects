@@ -28,13 +28,8 @@ To explore or run the SQL queries and stored procedures:
 ## Usage
 The repository contains various SQL tasks and implementations:
 
-- **Project-1**: Calculated the total work hours of employees based on their check-in and check-out times.
-- **Project-2**: Implemented a stored procedure to assign students to subjects based on a predefined workflow.
-- **Project-3**: Implemented a stored procedure to insert requested subjects as valid records in the SubjectAllotments Table according to the specified workflow.
-- **Project-4**: Executed different queries on the Microsoft's Adventure Works Database 2022.
-- **Project-5**: Executed queries using Stored Procedures, Functions, Views, and Triggers on the Microsoft's Adventure Works Database 2022.
-- **Project-6**: Executed queries according to specific tasks assigned.
-
+- **Project1**: Executed different queries on the Microsoft's Adventure Works Database 2022.
+- **Project2**: Executed queries using Stored Procedures, Functions, Views, and Triggers on the Microsoft's Adventure Works Database 2022.
 
 ## Features
 - **Comprehensive SQL Queries**: Various queries to interact with and manipulate data in the Microsoft's Adventure Works Database 2022.
